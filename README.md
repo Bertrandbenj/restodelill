@@ -1,7 +1,3 @@
----
-title: My Resume
----
-
 
 Page du Restaurant de l'Ill à Ebersmunster
 
