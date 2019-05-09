@@ -1,8 +1,5 @@
 ---
 title: My Resume
-url: 'http://bertrandbenjamin.com'
-baseurl: '/cv' #change it according to your repository name
-
 ---
 
 
