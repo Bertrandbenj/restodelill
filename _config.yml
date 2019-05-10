@@ -8,7 +8,7 @@ url: # the base hostname & protocol for your site
 author:
 street_address: 14 rue du Général Leclerc
 city: Ebermunster
-state: FR
+ #state: FR
 zip_code: 67600
 country: France
 phone: 03 88 85 75 40
