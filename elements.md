@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Vins
 nav-menu: true
 ---
 

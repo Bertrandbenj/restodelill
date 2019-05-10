@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: "L'equipe restaurant de l'Ill <br />vous acceuil à Ebermunster"
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

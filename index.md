@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Bienvenue
+landing-title: 'Restaurant de l Ill'
 description: null
 image: null
 author: null

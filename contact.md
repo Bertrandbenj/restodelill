@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kontakt
+title: Nous trouver
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Kontakt</h1>
+			<h1>Nous trouver</h1>
 		</header>
 
 <!-- Content -->
