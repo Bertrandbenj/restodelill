@@ -11,7 +11,7 @@ city: Ebermunster
 state: FR
 zip_code: 67600
 country: France
-phone: 03 88 85 75 40
+phone: (+33) 03 88 85 75 40
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

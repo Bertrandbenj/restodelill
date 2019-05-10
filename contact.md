@@ -34,9 +34,9 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Adresse</h3>
-    <p>{{street_address}}</p>	
-    <p>{{zip_code}} {{city}}</p>
-    <p>{{country}}</p>
+    <p>14 rue du Général Leclerc</p>	
+    <p>67600 Ebermunster</p>
+    <p>France</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Telephone</h3>
