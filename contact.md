@@ -17,6 +17,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Info</h2>
 <div class="row">
+	<!-- 
 	<div class="6u 12u$(small)">
 		<h3>Adresse</h3>
     <p>Mathildenstraße 29</p>	
@@ -28,24 +29,25 @@ nav-menu: true
 		<p>0911 / 47001898</p>	
     <p>0911 / 47001899</p>
 	</div>
+	-->
+	
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Adresse</h3>
-    <p>Mathildenstraße 29</p>	
-    <p>Nürnberg, Bayern 90489</p>
-    <p>Deutschland</p>
+    <p>{{street_address}}</p>	
+    <p>{{zip_code}} {{city}}</p>
+    <p>{{country}}</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Telefon</h3>
-		<p>0911 / 47001898</p>	
-    <p>0911 / 47001899</p>
+		<h3>Telephone</h3>
+		<p>{{phone}}</p>	 
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Öffnungszeiten</h3>
-    <p>Montag bis Sonntag</p>	
-    <p>11.30 - 14.30 Uhr</p>
-    <p>und 17.00 - 22.00 Uhr</p>
-    <p>Dienstag ist Ruhetag (außer Feiertag)</p>	
+		<h3>Horaires</h3>
+    <p> du Jeudi au Mardi</p>	
+    <p>12h00 - 14h00</p>
+    <p>19h00 - 22h00</p>
+    <p>Ouverts aux groupes les jours feriés</p>	
 	</div>
 </div>
 
