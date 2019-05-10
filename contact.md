@@ -40,7 +40,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Telephone</h3>
-		<p>{{phone}}</p>	 
+		<p>{{ site.phone }}</p>	 
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Horaires</h3>
