@@ -34,24 +34,21 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Adresse</h3>
-    <p>14 rue du Général Leclerc</p>	
-    <p>67600 Ebermunster</p>
-    <p>France</p>
+    <p>14 rue du Général Leclerc
+    </br>67600 Ebermunster
+    </br>France</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Telephone</h3>
-		<p>{{ site.phone }}</p>	 
+		<p><a href="mailto:{{ site.phone }}">{{ site.phone }}</a></p>	 
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Horaires</h3>
 		<table>
 		
 		</table>
-		<p>Tous LJ, sauf le mercredi</p>	
-    <p>12h00 - 13h30</p>
-    <p> du Jeudi au Dimanche</p>	
-    <p>12h00 - 13h30</p>
-    <p>19h00 - 21h00</p>
+		<p>Lundi - Mardi</br>12h00 - 13h30</p>
+    <p>Du Jeudi au Dimanche</br>12h00 - 13h30</br>19h00 - 21h00</p>
     <p>Possibilité d'acceuillir les groupes</p>	
 	</div>
 </div>
