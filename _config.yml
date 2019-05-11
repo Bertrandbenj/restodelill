@@ -55,6 +55,12 @@ restaurant:
     - name: Les carpes Frites
       desc: Trois sauce, salade et frites
       prix: 19
+    - name:
+      desc: supplément Carpes
+      prix: 7
+    - name:
+      desc: supplément Frites
+      prix: 4
     - name: Le carré de veau grillé
       desc: Sauce crème & champignons, frites et lgumes du moment
       prix: 21
@@ -74,12 +80,7 @@ restaurant:
     - name: Le plat enfant
       desc: Poulet, légumes & frites OU steak haché, légumes & frites OU carpes frites enfant
       prix: 8
-    - name:
-      desc: supplément Carpes
-      prix: 7
-    - name:
-      desc: supplément Frites
-      prix: 4
+
 
 
   dessert:

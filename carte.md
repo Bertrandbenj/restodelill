@@ -38,7 +38,10 @@ nav-menu: true
                 <div class="6u 12u$(small)">
                     <h3>{{dish.name}}</h3>
                     <p>{{dish.desc}}<br/>
-                    {{dish.prix}} €</p>
+                        {% if dish.prix %}
+                            {{dish.prix}} €
+                        {% endif %}
+                     </p>
                 </div>
             {% endfor %} 
          </div>
