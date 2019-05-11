@@ -13,15 +13,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>La carte</h1>
 		</header>
 
 <!-- Content -->
 <h1 id="content">Entrées</h1>
 <div class="row">
+{% for starter in site.restaurant.starter %}
  <div class="4u 12u$(small)">
-<h3> La tartinette</h3>
-Chèvre frais fermier, jambon fumé, tomate et sa salade
+<h3>{{starter.name}}</h3>
+{{starter.desc}}
+{{starter.ix}}
  </div>
  
  <div class="4u 12u$(small)">
