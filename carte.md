@@ -59,6 +59,8 @@ nav-menu: true
         </div>
 
 
+<p>Sous réserve de modifications</p>
+<p>L'abus d'alcool est dangereux pour la santé</p>
 </div>
 </section>
 

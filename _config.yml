@@ -2,7 +2,7 @@
 title: Restaurant de l'Ill
 subtitle:
 email: restodelill@gmail.com
-description: Restaurant gourmand sur les bords de l\'Ill
+description: Restaurant gourmand sur les bords de l'Ill
 baseurl:  # the subpath of your site, e.g. /blog
 url: http://restaurantdelill.com # the base hostname & protocol for your site
 author:
@@ -46,12 +46,11 @@ restaurant:
     - name: Les asperges d'Alsace
       desc: aux deux jambons & mayonnaise maison
       prix: 9
-    - name: Les escargots douzaine
-      desc:
-      prix: 14
-    - name: Les escargots 1/2 douzaine
-      desc:
-      prix: 7
+    - name: Les escargots
+      desc: 1/2 douzaine OU douzaine
+      prix: 7 / 14
+
+
   maindish:
     - name: Les carpes Frites
       desc: Trois sauce, salade et frites
@@ -65,6 +64,23 @@ restaurant:
     - name: L'entrecôte (qualité supérieur)
       desc: Sauce au poivre vert, frites et salade
       prix: 23
+    - name: Le burger du chef
+      desc: Steak haché ANgus, painde la boulangerie Meyer, salade, tomate, oignon rouge & sauce
+      prix: 16.80
+    - name: Les ribs à la texane (porc label rouge fermier)
+      desc: Sauce barbecue, frites et salade
+      prix: 19
+    - name: Le plat enfant
+      desc: Poulet, légumes & frites OU steak haché, légumes & frites OU carpes frites enfant
+      prix: 8
+    - name:
+      desc: supplément Carpes
+      prix: 7
+    - name:
+      desc: supplément Frites
+      prix: 4
+
+
   dessert:
     - name: l'Assiette de fromages
       desc: assortiment de fromages et sa salade
@@ -72,7 +88,25 @@ restaurant:
     - name: L'ananas flambé
       desc: 1/2 ananas flambé au rhum et sa note vanilléé
       prix: 7.50
+    - name: La tarte au citron
+      desc: Revisite d'un classique, elle prend de la hauteur
+      prix: 6
+    - name: Le café gourmand
+      desc: Espresso & assiette gourmande de desserts (supplément de 1€ pour le thé gourmand)
+      prix: 10.50
+    - name: Les fraises chantilly
+      desc: Fraise française & chantilly maison
+      prix: 6.50
+    - name: La crème brulée
+      desc: A la vanille de Madagascar
+      prix: 7
+    - name: Le gâteau au chocolat
+      desc: Chocolat de Guayaquil et ces noix de Pécan
+      prix: 6.5
+
     - name: Irish Coffee
       desc: Whisky,sucre de canne, espresso et chantilly
       prix: 7
-
+    - name: Café Alsacien
+      desc: Eau de vie, sucre de canne, espresso et chantilly
+      prix: 7

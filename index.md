@@ -2,10 +2,10 @@
 layout: home
 title: Bienvenue
 landing-title: Restaurant de l'Ill
-description: null
+description: Spécilité locale
 image: null
 author: null
 show_tile: false
 ---
 
-La carpe frite 
+La carpe frites
