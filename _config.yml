@@ -3,8 +3,8 @@ title: Restaurant de l'Ill
 subtitle: Restaurant gourmand sur les bords de l'Ill
 email: restodelill@gmail.com
 description: Page du restaurant de l'Ill a Ebermunster
-baseurl: "/restodelill" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+url: http://restaurantdelill.com # the base hostname & protocol for your site
 author:
 street_address: 14 rue du Général Leclerc
 city: Ebermunster
