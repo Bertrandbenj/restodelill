@@ -20,19 +20,22 @@ nav-menu: true
 <h1 id="content">Entrées</h1>
 <div class="row">
  <div class="4u 12u$(small)">
-## La tartinette
+<h3> La tartinette</h3>
 Chèvre frais fermier, jambon fumé, tomate et sa salade
  </div>
  
  <div class="4u 12u$(small)">
-## Les asperges d'Alsace
+<h3> Les asperges d'Alsace</h3>
 aux deux jambons & mayonnaise maison
  </div>
  
  <div class="4u 12u$(small)">
-## Les escargots
- - Beurre maison, la 1/2 douzaine
- - Beurre maison, la douzaine
+<h3> Les escargots</h3>
+ <ul>
+ <li>Beurre maison, la 1/2 douzaine</li>
+ <li>Beurre maison, la douzaine</li>
+</ul>
+ 
  </div>
 </div>
 

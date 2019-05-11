@@ -1,8 +1,8 @@
 # site settings
 title: Restaurant de l'Ill
-subtitle: Restaurant gourmand sur les bords de l'Ill
+subtitle:
 email: restodelill@gmail.com
-description: Page du restaurant de l'Ill a Ebermunster
+description: Restaurant gourmand sur les bords de l\'Ill
 baseurl:  # the subpath of your site, e.g. /blog
 url: http://restaurantdelill.com # the base hostname & protocol for your site
 author:

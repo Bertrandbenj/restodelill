@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'Menu s du jour'
+title: Tout les menus
+landing-title: 'Menu du jour'
 nav-menu: true
 description: null
 image: null
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>All posts</h1>
+<h1>Tout les menus</h1>
