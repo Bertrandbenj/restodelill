@@ -16,41 +16,50 @@ nav-menu: true
 			<h1>La carte</h1>
 		</header>
 
-<!-- Content -->
-<h1 id="content">Entrées</h1>
-<div class="row">
-    {% for starter in site.restaurant.starter %}
-        <div class="4u 12u$(small)">
-            <h3>{{starter.name}}</h3>
-            <p>{{starter.desc}}
-<br/>
-            {{starter.prix}}</p>
+        <!-- Content -->
+        <h1 id="content">Entrées</h1>
+         <div class="row">
+            {% for dish in site.restaurant.starter %}
+                <div class="4u 12u$(small)">
+                    <h3>{{dish.name}}</h3>
+                    <p>{{dish.desc}}<br/>
+                    {{dish.prix}}</p>
+                </div>
+            {% endfor %} 
+         </div>
+        
+        
+        <hr class="major" />
+        
+        
+         <h1 id="content">Plats</h1>	
+         <div class="row">
+          {% for dish in site.restaurant.maindish %}
+                <div class="6u 12u$(small)">
+                    <h3>{{dish.name}}</h3>
+                    <p>{{dish.desc}}<br/>
+                    {{dish.prix}} €</p>
+                </div>
+            {% endfor %} 
+         </div>
+        
+        <hr class="major" />
+        
+        
+        <h1 id="content">Desserts</h1>
+        
+        <div class="row">
+            {% for dish in site.restaurant.dessert %}
+                <div class="4u 12u$(small)">
+                    <h3>{{dish.name}}</h3>
+                    <p>{{dish.desc}}<br/>
+                    {{dish.prix}}</p>
+                </div>
+            {% endfor %} 
         </div>
-    {% endfor %} 
- 
- 
- </div>
-</div>
-
-<hr class="major" />
-
-
-<h1 id="content">Plats</h1>	
-<div class="row">
- <div class="4u 12u$(small)">
- </div>
-</div>
-
-<hr class="major" />
-
-
-<h1 id="content">Desserts</h1>
-
-<div class="row">
- <div class="4u 12u$(small)">
- </div>
-</div>
 
 
 </div>
 </section>
+
+</div>

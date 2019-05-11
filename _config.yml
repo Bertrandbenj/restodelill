@@ -45,26 +45,26 @@ restaurant:
       prix: 8.5
     - name: Les asperges d'Alsace
       desc: aux deux jambons & mayonnaise maison
-      prix: 9.00
+      prix: 9
     - name: Les escargots douzaine
       desc:
-      prix: 14.00
+      prix: 14
     - name: Les escargots 1/2 douzaine
       desc:
-      prix: 7.00
+      prix: 7
   maindish:
     - name: Les carpes Frites
       desc: Trois sauce, salade et frites
-      prix: 19.00
+      prix: 19
     - name: Le carré de veau grillé
       desc: Sauce crème & champignons, frites et lgumes du moment
-      prix: 21.00
+      prix: 21
     - name: Le filet de sandre
       desc: Sauce a la crème, nouilles et légumes du moment
       prix: 20.5
     - name: L'entrecôte (qualité supérieur)
       desc: Sauce au poivre vert, frites et salade
-      prix: 23.00
+      prix: 23
   dessert:
     - name: l'Assiette de fromages
       desc: assortiment de fromages et sa salade
@@ -74,5 +74,5 @@ restaurant:
       prix: 7.50
     - name: Irish Coffee
       desc: Whisky,sucre de canne, espresso et chantilly
-      prix: 7.00
+      prix: 7
 
