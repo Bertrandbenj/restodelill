@@ -44,14 +44,16 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Horaires</h3>
-		<table>
 		
-		</table>
-		<p>Lundi - Mardi</br>12h00 - 13h30</p>
-    <p>Du Jeudi au Dimanche<br/>
-    12h00 - 13h30<br/>
-    19h00 - 21h00</p>
-    <p>Possibilité d'acceuillir les groupes</p>	
+		<p> Lundi - Mardi<br/>
+		    12h00 - 13h30
+		</p>
+        <p>
+            Du Jeudi au Dimanche<br/>
+            12h00 - 13h30<br/>
+            19h00 - 21h00
+        </p>
+        <p>Possibilité d'acceuillir les groupes</p>	
 	</div>
 </div>
 

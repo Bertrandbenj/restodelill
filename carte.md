@@ -19,24 +19,15 @@ nav-menu: true
 <!-- Content -->
 <h1 id="content">Entrées</h1>
 <div class="row">
-{% for starter in site.restaurant.starter %}
- <div class="4u 12u$(small)">
-<h3>{{starter.name}}</h3>
-{{starter.desc}}
-{{starter.ix}}
- </div>
+    {% for starter in site.restaurant.starter %}
+        <div class="4u 12u$(small)">
+            <h3>{{starter.name}}</h3>
+            <p>{{starter.desc}}
+<br/>
+            {{starter.prix}}</p>
+        </div>
+    {% endfor %} 
  
- <div class="4u 12u$(small)">
-<h3> Les asperges d'Alsace</h3>
-aux deux jambons & mayonnaise maison
- </div>
- 
- <div class="4u 12u$(small)">
-<h3> Les escargots</h3>
- <ul>
- <li>Beurre maison, la 1/2 douzaine</li>
- <li>Beurre maison, la douzaine</li>
-</ul>
  
  </div>
 </div>
