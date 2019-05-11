@@ -23,7 +23,7 @@ nav-menu: true
                 <div class="4u 12u$(small)">
                     <h3>{{dish.name}}</h3>
                     <p>{{dish.desc}}<br/>
-                    {{dish.prix}}</p>
+                    {{dish.prix}} €</p>
                 </div>
             {% endfor %} 
          </div>
@@ -53,7 +53,7 @@ nav-menu: true
                 <div class="4u 12u$(small)">
                     <h3>{{dish.name}}</h3>
                     <p>{{dish.desc}}<br/>
-                    {{dish.prix}}</p>
+                    {{dish.prix}} €</p>
                 </div>
             {% endfor %} 
         </div>

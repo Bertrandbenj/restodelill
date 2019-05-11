@@ -65,11 +65,12 @@ restaurant:
       desc: Sauce au poivre vert, frites et salade
       prix: 23
     - name: Le burger du chef
-      desc: Steak haché ANgus, painde la boulangerie Meyer, salade, tomate, oignon rouge & sauce
+      desc: Steak haché Angus, pain de la boulangerie Meyer, salade, tomate, oignon rouge & sauce
       prix: 16.80
     - name: Les ribs à la texane (porc label rouge fermier)
       desc: Sauce barbecue, frites et salade
       prix: 19
+    - name:
     - name: Le plat enfant
       desc: Poulet, légumes & frites OU steak haché, légumes & frites OU carpes frites enfant
       prix: 8
@@ -105,7 +106,7 @@ restaurant:
       prix: 6.5
 
     - name: Irish Coffee
-      desc: Whisky,sucre de canne, espresso et chantilly
+      desc: Whisky, sucre de canne, espresso et chantilly
       prix: 7
     - name: Café Alsacien
       desc: Eau de vie, sucre de canne, espresso et chantilly
