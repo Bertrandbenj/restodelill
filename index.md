@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Bienvenue
-landing-title: 'La Carpe Frites'
+landing-title: Restaurant de l'Ill
 description: null
 image: null
 author: null
