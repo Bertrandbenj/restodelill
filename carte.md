@@ -33,7 +33,7 @@ nav-menu: true
         
         
          <h1 id="content">Plats</h1>	
-         <div class="row">
+         <div class="row">Nous
           {% for dish in site.restaurant.maindish %}
                 <div class="6u 12u$(small)">
                     <h3>{{dish.name}}</h3>

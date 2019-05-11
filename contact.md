@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Nous trouver
+title: Qui sommes nous
+description: Renaud et Marielle vous acceuil à Ebermunster
 nav-menu: true
 ---
 
@@ -11,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Nous trouver</h1>
+			<h1>Qui sommes nous</h1>
 		</header>
 
 <!-- Content -->
